@@ -1,0 +1,6 @@
+Jesus Javier Flores Hernandez
+Fecha: 14/03/2026
+Objetivo de la actividad:
+Que el alumno practique el flujo completo de trabajo en GitHubpartiendo desde cero crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+Qué es un Pull Request (definición breve):
+solicitud de extracción, es una funcionalidad en plataformas como GitHub o Bitbucket donde un desarrollador notifica a su equipo que ha completado una serie de cambios en una rama de código. Permite revisar, discutir y probar las modificaciones antes de fusionarlas (hacer merge) en la rama principal, asegurando así la calidad del software.
